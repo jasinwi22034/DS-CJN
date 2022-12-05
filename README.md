@@ -1,2 +1,2 @@
 # DS-CJN
-Data Science Project 2022 WI2022F from Cremes, Jasin, Niko
+Data Science Project 2022 WI2022F from Clemens, Jasin, Niko
